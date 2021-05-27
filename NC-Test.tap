@@ -3,7 +3,7 @@
 G17 
 G40
 G80
-G90
+G100
 G91.1
 
 (<2: Werkzeug Nullwerkzeug>)
